@@ -76,3 +76,4 @@ $available_languages[] = array('ru_RU', __('Russian'), 'Russian');
 $available_languages[] = array('th_TH', __('Thai'), 'Thai');
 $available_languages[] = array('tr_TR', __('Turkish'), 'Turkish');
 $available_languages[] = array('ur_PK', __('Urdu'), 'Urdu');
+$available_languages[] = array('ko_KR', __('Korean'), 'Korean');
